@@ -1,0 +1,11 @@
+{
+  "name": "leroy-merlin",
+  "version": "1.0.0",
+  "description": "Test technique",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ismail Ghrab",
+  "license": "ISC"
+}
